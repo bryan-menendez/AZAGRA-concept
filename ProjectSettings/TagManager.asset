@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - collider
+  - trigger
+  - camera_panel
+  - bg
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg_parallax
+    uniqueID: 2478839573
+    locked: 0
+  - name: bg_structures
+    uniqueID: 3740310135
+    locked: 0
+  - name: bg_obscured
+    uniqueID: 3255045021
+    locked: 0
+  - name: bg_terrain
+    uniqueID: 23453555
+    locked: 0
+  - name: bg_props
+    uniqueID: 3436892825
+    locked: 0
+  - name: bg_active
+    uniqueID: 2972683139
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fg_props
+    uniqueID: 1556576683
+    locked: 0
+  - name: fg_active
+    uniqueID: 2361829379
+    locked: 0
+  - name: fg_structures
+    uniqueID: 1609945691
+    locked: 0
+  - name: dialog
+    uniqueID: 1151596855
+    locked: 0
+  - name: camera_panel
+    uniqueID: 2848270105
+    locked: 0
+  - name: colliders
+    uniqueID: 3653865455
+    locked: 0
+  - name: triggers
+    uniqueID: 1642921889
+    locked: 0
+  - name: gui
+    uniqueID: 1403387315
+    locked: 0
